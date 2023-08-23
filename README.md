@@ -2,9 +2,9 @@
 
 # Large Language Models and Chat GPT
 
-**Time: **Mondays 6:30-8:30pm
+**Time:** Mondays 6:30-8:30pm
 
-**Room: **5417
+**Room:** 5417
 
 **Instructor**: Michelle McSweeney
 
