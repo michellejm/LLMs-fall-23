@@ -64,27 +64,27 @@ There is no required textbook for this course, but a few rather helpful resource
 
 ## Design of this course
 
-This course takes 2 approaches to understanding the role of Large Language Models (llm’s): technical and the social. The primary goal of this course is to equip you with the technical foundation necessary to have an informed yet critical opinion about the role of large language models in society and develop that opinion in conversation with your peers. These two parts are equally important.
+This course takes 2 approaches to understanding the role of Large Language Models (llm’s): technical and social. The primary goal of this course is to equip you with the technical foundation necessary to have an informed yet critical opinion about the role of large language models in society and develop that opinion in conversation with your peers. These two parts are equally important.
 
 
 ### Social
 
-Every other week (S), we will discuss one area of social importance. The areas I’ve selected are significant, but it is not a comprehensive list. Everyone will do the readings and participate in the discussion. 
+Every other week (S), we will discuss one area of social importance. The areas I’ve selected are significant, but not comprehensive (this selected topics may change before the start of the semester, survey depending). 
 
-The discussion will be lead by 3 students (everyone will lead one time). If it is your group’s week, you will work with your group to deep dive into a topic. Please use the Slack channel for your topic to discuss. There are assigned readings for everyone, but when it is “your” week, the expectation is that you will go beyond those readings and consume a variety of opinions about the topic at hand. The group work part of it is to have a conversation before the class session to discuss what you have found, what you have been thinking about, and the biggest questions and issues that are still unanswered. Pay particular attention to the assumptions you make to reach any opinions you hold. 
+Everyone will do the readings and participate in the discussion. The discussion will be lead by 3 students (everyone will lead one time). If it is your group’s week, you will work with your group to deep dive into a topic. Please use the Slack channel for your topic to discuss and post any additional readings/watchings/listenings you've found particularly insightful. There are assigned readings for everyone, but when it is “your” week, the expectation is that you will go beyond those readings and consume a variety of opinions about the topic at hand. The group work part of it is to have a conversation before the class session to discuss what you have found, what you have been thinking about, and the biggest questions and issues that are still unanswered. Pay particular attention to the assumptions you make in order to reach any opinions you hold. 
 
 After the class discussion, the “lab” is to write a 1-3 paragraph opinion about the topic. This opinion should be posted either on the CUNY Commons, a personal website, or your Github. The purpose of the post is to record your thoughts on the topic for both your future self and as part of a portfolio of work on LLM’s. While we often think of portfolios as showing technical skill, being able to demonstrate that you have an informed opinion on the social implications of LLM’s is just as important. 
 
 
 ### Technical
 
-Every other week will cover a technical aspect of LLM’s. This is an extremely rapid pace, but should give you a good, high-level understanding of how these models work. We will not going into the math beyond probability, though we may touch on some ideas from calculus and linear algebra. Even if you are unfamiliar with these ideas, you will be ok, it’s helpful but not essential (probability is essential). After each technical lesson, there is a lab. Except for the first one (on prompt engineering), all of the labs are designed to be completed in Python. The Jupyter Notebooks for them will be posted on Github. 
+Every other week will cover a technical aspect of LLM’s. This is an extremely rapid pace, but should give you a good, high-level understanding of how these models work. We will not going into the math beyond probability. After each technical lesson, there is a lab. Except for the first one (on prompt engineering), all of the labs are designed to be completed in Python. The Jupyter Notebooks for them will be posted on Github. 
 
-It is possible to simply copy the labs over, I don’t recommend this. At each step, be sure you understand why we are completing that step – even if you do not understand what the code itself does. Read the instructions and then manually copy the code into your own notebook. Test it to see what it does. Recommendations for testing code are on Github. 
+It is possible to simply copy-paste the labs, though I don’t recommend this. At each step, be sure you understand why we are completing that step – even if you do not understand what the code itself does. Read the instructions and then manually copy the code into your own notebook. Test it to see what it does. Recommendations for testing code will be posted on Github. 
 
-The goal of the lab is to understand how LLM’s work and how to use them, not to make you a better programmer, so do worry about understanding each step. Do not worry about understanding the syntax (though if that is your interest, by all means, go for it). 
+The goal of the lab is to understand how LLM’s work and how to use them, not to make you a better programmer, so do worry about being able to write the code yourself. Likewise, do not worry about understanding the syntax (though if that is your interest, by all means, go for it). 
 
-Your code and short written summary of what you did should be posted either on the CUNY Commons, a personal website, or your Github.
+**Your code and short written summary of what you did should be posted either on the CUNY Commons, a personal website, or your Github.**
 
 
 ### Final Project
@@ -94,8 +94,6 @@ Your final project should incorporate both the technical and social aspects of L
 All projects will have a proposal, a proof of concept, and a final presentation. 
 
 The proposal should contain:
-
-
 
 * A description of the product you will create. If this is a written paper, that’s easy enough. If it is an LLM-powered project, this will have to be more detailed.
 * A statement of the question or issue that this project addresses. What are the social implications/questions/challenges that you will explore. Even the most technical project will have social implications.
@@ -118,8 +116,6 @@ Primarily technical projects that leverage LLM’s to solve a problem, answer a 
 
 Some examples adopted from [this Medium post](https://towardsdatascience.com/10-exciting-project-ideas-using-large-language-models-llms-for-your-portfolio-970b7ab4cf9e):
 
-
-
 * A cover letter generator that takes user input and feeds it into a prompt template, which is then passed to the ChatGPT API, and the response returned to the user. This could be a Github repo with the necessary code, a few examples of what it can produce, and a ReadMe that explores the implications of having ChatGPT write cover letters. If you want to go above and beyond, possibly add a GUI wrapper to make it easy to use,
 * A personalized chatbot could be a Github repo with the code you used to fine tune the LLM, the training data, examples of what it can produce, and a ReadMe that explores the implications of creating customized Chatbots. 
 * A podcast summarizer could be a Github repo with the code you used to prepare the transcripts and to analyze them, a few examples of what it can produce, and a ReadMe that explores the implications of such summaries – including the benefits and what can go wrong. 
@@ -131,8 +127,6 @@ Some examples adopted from [this Medium post](https://towardsdatascience.com/10-
 Primarily social projects that explore a topic or question will likely take the form of a research paper (though alternative proposals are welcome!). As part of the exploration, they should engage in a systematic way with an LLM either to demonstrate behavior, validate claims, or otherwise support the arguments being made. 
 
 Some examples include:
-
-
 
 * Explore how toxicity does or does not have damaging effects on society. Write a paper bringing together current research and thinking about the effects of toxicity and use prompt engineering to systematically validate those claims or work through a series of toxicity prompts in different models. Make this paper public by publishing on a website or submitting to a conference.
 * Trace the history of bias in machine learning in a written paper that will either be published to a website or submitted to a conference/journal. Explore various dimensions of bias in one or more base models, or fine tune a model to be more or less biased. 
@@ -383,17 +377,16 @@ _Please complete readings listed for each date before the class session. Some to
 
 _Coding System:_
 
-**_Technical: Most math, typically the most in-depth and detailed explanation_**
+**_Technical:** Most math, typically the most in-depth and detailed explanation_
 
-**_Mid-level: Getting this right is hard, some of these will be more technical than others_**
+**_Mid-level**: Getting this right is hard, some of these will be more technical than others_
 
-**_Intuitive: Where possible, I’ve tried to find an intuitive explanation that has minimal math. _**
+**_Intuitive**: Where possible, I’ve tried to find an intuitive explanation that has minimal math. _
 
-**_Canonical: Some articles are transformational or famous or becoming part of the canon - even if you don’t finish these, you should be aware of them._**
+**_Canonical**: Some articles are transformational or famous or becoming part of the canon - even if you don’t finish these, you should be aware of them._
+
 
 August 28
-
-
 
 * Fill out the survey
 
