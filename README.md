@@ -454,6 +454,7 @@ October 23 (T) Transformers and attention
 * Attention
     * (Mid-level) Cristina, 2022. [The Attention Mechanism from Scratch (Sections 1 & 2 - ignore the coding](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
     * (Technical, Canonical) Vaswani et al., 2017. [Attention is all you need.](https://arxiv.org/abs/1706.03762)
+    * (Summary) Fierro, 2020. [Attention is all you need - summary](https://dair.ai/posts/attention-is-all-you-need/)
     * (Intuitive) Google, 2023. [An overview of the Attention Mechanism.](https://www.youtube.com/watch?v=fjJOgb-E41w)
 
 October 30 (S) Labor & Creative production
