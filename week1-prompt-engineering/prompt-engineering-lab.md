@@ -75,16 +75,39 @@ The purpose of the Playground is to configure the settings for an API. It theref
 
 For every step, keep track of your impressions. You don't have to copy the entire text, but after each response, take a few notes on how you think it performed.
 
-1. Open the Playground Interface (refresh it if you already have it open)
-
-
-
-### Part 5: Data Labeling
-
-For every step, keep track of your impressions. You don't have to copy the entire text, but after each response, take a few notes on how you think it performed.
-
+1. Open the Playground Interface
+2. In a new tab, navigate to the [Examples library](https://platform.openai.com/examples) (in the upper left menu bar)
+3. Choose an example that is NOT "helpful assistant" (i.e., Socratic Tutor)
+4. Write a prompt tailored to the option you chose (i.e., How does computer vision work?)
+5. Write the same prompt in the default, helpful assistant interface. Compare these responses.
+6. Inspect the Python code at the bottom of the example you chose.
+  
+  
+ **key questions**  Looking at the code, what parameters are being passed, and what changed from the default? What does that indicate about the relationship between the settings of the LLM and user behavior (and/or user belief). 
 
 
 ### Part 6: Coding
 
 For every step, keep track of your impressions. You don't have to copy the entire text, but after each response, take a few notes on how you think it performed.
+
+1. Using either the Chat interface or the Playground interface, ask ChatGPT to write the code for a simple program (i.e., a python program for a bigram language model).
+2. If use the Chat interface, refine your request until you are happy with the result. Some things you can ask are:
+  1. Perform certain tasks (i.e., "return the probability of the next 5 most common words given a seed word", generate 10 words from a seed word).
+  2. Use a specific package you want (i.e., NLTK)
+  3. Refactor the code to make it more efficient, comment every step, or if you are new to programming, "rewrite this code without classes")
+4. Ask ChatGPT to identify some edge cases that you should test and write the corresponding unit tests. Unit tests are programmatic ways to ensure that your code words.
+5. Copy your code into your favorite IDE and run it. Does it work? If not, use ChatGPT to fix it.
+
+### Submission
+
+This lab does not need to be posted to your Github since the purpose was strickly to become familiar with the interface and some options. Please send me your lab notes via email to michellamcsweeney@gmail.com in an format. They do not need to be tidy. I am looking to be sure that you are making good notes for yourself should you decide that you want to do an experiment-style final project. 
+
+### Conclusion
+
+By now, you have a good sense of what the different interfaces do, your options for using ChatGPT, and how to get it to produce better responses. Really we have just scratched the surface and not even touched Chain of Thought Reasoning or some other techniques. Prompt Engineering is everywhere, but if you want to learn more, some good resources are:
+* Saravia, 2022. [DAIR Prompting Guide](https://www.promptingguide.ai/introduction/tips)
+* Machine Learning Mastery, 2023. [Prompt Engineering for Effective Interaction with ChatGPT](https://machinelearningmastery.com/prompt-engineering-for-effective-interaction-with-chatgpt/)
+* Wei, 2022. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+
+
+
