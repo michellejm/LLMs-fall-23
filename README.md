@@ -390,6 +390,10 @@ August 28
 
 * Fill out the survey
 
+* Additional readings
+    * Carlsmith, 2021. [Is Power-Seeking AI an Existential Risk?](https://arxiv.org/abs/2206.13353)
+    * Chomsky, Roberts, and Wartmull, 2023. [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html?unlocked_article_code=pnmBGNiEj2AJJqPZ7dhRiRoNHKGFi0VA_zbipybVujK--YxV0qU3faEk80LbyCoQy3_h9X8VlIC0sgztkQa73tagVxt5CUY2AtEr97R9XQYNTPvqYBFRm5GkbyqQc3cimJ8K7pcf9nkTBYKtEqB1UiNrT2RkGoIflWJlnyXNV8JW1YLeO7S8E8P2fWnnlLho1wl1_hEYME8xFBrACbYatR2lQaF47lneUDb6ceVepThXSBuJtIGt8iwC_zFGMlgM53gJsbw5qZCWWyGBcBIMM30OFKzlM88VHH1Jy9kxvwdF0kvs1mp94BObG7j8mBUaOX7P7_2hzOQYjLiATtBf4_w&smid=url-share). NYTimes
+
 September 11 (T) Tokenization and word vectors (and rest of n-grams)
 
 
