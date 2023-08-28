@@ -390,12 +390,19 @@ August 28
 
 * Fill out the survey
 
-* Additional readings
+* Referenced readings
+    * Anthropic, 2023. [Claude's Constutition](https://www.anthropic.com/index/claudes-constitution)
     * Carlsmith, 2021. [Is Power-Seeking AI an Existential Risk?](https://arxiv.org/abs/2206.13353)
-    * Chomsky, Roberts, and Wartmull, 2023. [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html?unlocked_article_code=pnmBGNiEj2AJJqPZ7dhRiRoNHKGFi0VA_zbipybVujK--YxV0qU3faEk80LbyCoQy3_h9X8VlIC0sgztkQa73tagVxt5CUY2AtEr97R9XQYNTPvqYBFRm5GkbyqQc3cimJ8K7pcf9nkTBYKtEqB1UiNrT2RkGoIflWJlnyXNV8JW1YLeO7S8E8P2fWnnlLho1wl1_hEYME8xFBrACbYatR2lQaF47lneUDb6ceVepThXSBuJtIGt8iwC_zFGMlgM53gJsbw5qZCWWyGBcBIMM30OFKzlM88VHH1Jy9kxvwdF0kvs1mp94BObG7j8mBUaOX7P7_2hzOQYjLiATtBf4_w&smid=url-share). NYTimes
+    * Chomsky, Roberts, and Wartmull, 2023. [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html?unlocked_article_code=pnmBGNiEj2AJJqPZ7dhRiRoNHKGFi0VA_zbipybVujK--YxV0qU3faEk80LbyCoQy3_h9X8VlIC0sgztkQa73tagVxt5CUY2AtEr97R9XQYNTPvqYBFRm5GkbyqQc3cimJ8K7pcf9nkTBYKtEqB1UiNrT2RkGoIflWJlnyXNV8JW1YLeO7S8E8P2fWnnlLho1wl1_hEYME8xFBrACbYatR2lQaF47lneUDb6ceVepThXSBuJtIGt8iwC_zFGMlgM53gJsbw5qZCWWyGBcBIMM30OFKzlM88VHH1Jy9kxvwdF0kvs1mp94BObG7j8mBUaOX7P7_2hzOQYjLiATtBf4_w&smid=url-share). NYTimes.
+    * Kocijana, et al., 2023. [The Defeat of the Winograd Schema Challenge](https://arxiv.org/pdf/2201.02387.pdf)
+    * Merchant, 2023. [Column: Afraid of AI? The startups selling it want you to be](https://www.latimes.com/business/technology/story/2023-03-31/column-afraid-of-ai-the-startups-selling-it-want-you-to-be). LATimes
+    * Roose, 2023. [Inside the White-Hot Center of A.I. Doomerism](https://www.nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html?unlocked_article_code=PSg3AyNc2eeAj4ovwwOc24JLEbuP5ujoKBAZXA_B6_ISnxZUgxZy_YSEGrrM96TbgkXBMFJhjdeVwi_ttol1GiarS9DOph-rktl7bj7Y1DryW2F4MyOgoZ-dixfCJMgijJyJOuqFSqsvNpVJnqTlc5-BzJ1mmG1PC7xwnqeykd0Bzc0InpayGSQUYXdaFPRYhp3A2FFyxl5trPa4G7t1gW_6CdPmQPTQ3wn4x27iE6y0QxhvtO4XfK5MjLcCV-7raJJl23GGECADworc0DaTH7w9p04gYPJNGESE-2Fz4hPSxA5kaNSvZ6ynEa26pjt5KFof4Z69IU_vlchrXwA0OmxiyYct5pOY&smid=url-share). NYTimes.
+    * Tegmark, 2023. [The 'Don't Look Up' Thinking That Could Doom Us With AI](https://time.com/6273743/thinking-that-could-doom-us-with-ai/). Time.
+    * Vaswani, et al., 2017. [Attention is all you need](https://arxiv.org/abs/1706.03762)
+
+
 
 September 11 (T) Tokenization and word vectors (and rest of n-grams)
-
 
 
 * N-grams **_Read one _**
