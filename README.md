@@ -187,7 +187,7 @@ All grades are based on completion.
    </td>
    <td>Aug 28
    </td>
-   <td>Introduction to course, N-grams \
+   <td>Introduction to course, N-grams
 
    </td>
    <td>Prompt Engineering ChatGPT
