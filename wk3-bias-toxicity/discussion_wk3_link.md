@@ -1,0 +1,1 @@
+Link for notes from [bias & toxicty discussion](https://docs.google.com/document/d/1gks5aEmxaoOVqA28eEx6XaAUpS5CBoDXWmI5NQa9JzM/edit)
