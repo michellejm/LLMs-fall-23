@@ -416,9 +416,7 @@ September 11 (T) Tokenization and word vectors (and rest of n-grams)
     * (Technical) Jurafsky & Martin, 2023**.**[Most detailed explanation](https://web.stanford.edu/~jurafsky/slp3/2.pdf) (Jurafsky & Martin)
     * (Mid-level) Hugging Face, 2023. [Tokenizers](https://huggingface.co/learn/nlp-course/chapter2/4?fw=pt) 
 * Tokenization [Byte Pair Encoding](https://www.youtube.com/watch?v=HEikzVL-lZU) (Hugging Face)
-* Word Vectors **_Read one_**
-    * (Technical) Jurafsky & Martin, 2023**.[ Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)**. 
-    * (Mid-level) Espejel, 2022. [Getting Started with Embeddings.](https://huggingface.co/blog/getting-started-with-embeddings) (Hugging Face)
+
 
 September 18 (S) Bias and Toxicity **_Read three_**
 
@@ -431,9 +429,11 @@ September 18 (S) Bias and Toxicity **_Read three_**
 * Open AI, 2019. [AI Safety needs social scientists. ](https://openai.com/research/ai-safety-needs-social-scientists) ([full paper is here](https://distill.pub/2019/safety-needs-social-scientists/))
 * _There’s a lot written on this topic - please explore_
 
-October 2 (T) Neural Networks
+October 2 (T) Word Vectors & Neural Networks
 
-
+* Word Vectors **_Read one_**
+    * (Technical) Jurafsky & Martin, 2023**.[ Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)**. 
+    * (Mid-level) Espejel, 2022. [Getting Started with Embeddings.](https://huggingface.co/blog/getting-started-with-embeddings) (Hugging Face)
 
 * Neural Networks  **_Watch both of these BEFORE doing the reading_**
     * (Intuitive & Mid) 3Blue1Brown, 2017. [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk) 
