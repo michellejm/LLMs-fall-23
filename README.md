@@ -210,7 +210,7 @@ All grades are based on completion.
    </td>
    <td>Tokenization & word vectors
    </td>
-   <td>N-grams, Tokenization & Word Vectors
+   <td>N-grams & Tokenization 
    </td>
   </tr>
   <tr>
