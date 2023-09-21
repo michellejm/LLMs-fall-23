@@ -238,9 +238,9 @@ All grades are based on completion.
    </td>
    <td>Oct 2
    </td>
-   <td>Neural Networks
+   <td>Word Vectors & maybe Neural Networks
    </td>
-   <td>BERT
+   <td>Word vectors
    </td>
   </tr>
   <tr>
