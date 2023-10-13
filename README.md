@@ -34,7 +34,6 @@ By the end of this course, you will be able to:
 * Explain the role of tokenization in NLP
 * Explain what a word vector is and understand how they are calculated
 * Fine tune a LLM for a specific task
-* Use the ChatGPT API to automate calls
 * Explain the basics of how a Neural Network works
 * Explain what a transformer model is and when to use them
 * Contextualize the role of reinforcement learning in modern LLM’s
@@ -260,9 +259,9 @@ All grades are based on completion.
    </td>
    <td>Classes follow a Monday schedule - but we will <strong>not </strong>meet
 <p>
-ChatGPT API
+None
    </td>
-   <td><strong>ChatGPT API</strong>
+   <td><strong>None</strong>
    </td>
   </tr>
   <tr>
