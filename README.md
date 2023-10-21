@@ -474,8 +474,11 @@ October 30 (S) Labor & Creative production
 
 
 * Labor **_Read two_**
-    * Eloundou, et al., 2023. [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)
-    * 
+    * Eloundou, et al., 2023. OpenAI [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)
+    * May 7, 2023, The Economist. [Your job is (probably) safe from artificial intelligence](https://www.economist.com/finance-and-economics/2023/05/07/your-job-is-probably-safe-from-artificial-intelligence) *Note that you don't need a subscription - just an account to read this)*
+    * Lohr, April 10, 2023. NYTimes [A.I. Is Coming for Lawyers, Again](https://www.nytimes.com/2023/04/10/technology/ai-is-coming-for-lawyers-again.html)
+    * Klinova & Korinek, Aug 17, 2023. Brookings. [Unleashing possibilities, ignoring risks: Why we need tools to manage AI’s impact on jobs](https://www.brookings.edu/articles/unleashing-possibilities-ignoring-risks-why-we-need-tools-to-manage-ais-impact-on-jobs/)
+    * O'Reilly & Zahidi, Sept 2023. World Economic Forum. [Jobs of Tomorrow: Large Language Models and Jobs](https://www3.weforum.org/docs/WEF_Jobs_of_Tomorrow_Generative_AI_2023.pdf)
 
 November 6  (T) Fine Tuning
 
