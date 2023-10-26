@@ -1,11 +1,11 @@
 # Final Project
 
 ### Key dates:
-Nov 12: Proposal due
-Nov 13: 1:1 meeting to discuss plan (Zoom)
-Nov 27: Proof of concept due
-Nov 27-Dec 4: Get & give feedback from peers
-Dec 11: "poster" session
+* Nov 12: Proposal due
+* Nov 13: 1:1 meeting to discuss plan (Zoom)
+* Nov 27: Proof of concept due
+* Nov 27-Dec 4: Get & give feedback from peers
+* Dec 11: "poster" session
 
 ### Overview
 Your final project should incorporate both the technical and social aspects of LLM’s, though the balance is up to you. The shape of the project will depend on your goals for the course and how you want to shape your own portfolio. 
