@@ -1,10 +1,12 @@
 # Final Project
 
 ### Key dates:
+
 * Nov 12: Proposal due
 * Nov 13: 1:1 meeting to discuss plan (Zoom)
 * Nov 27: Proof of concept due
 * Nov 27-Dec 4: Get & give feedback from peers
+* Dec 4: Email Michelle to say what format your poster will be
 * Dec 11: "poster" session
 
 ### Overview
@@ -83,8 +85,16 @@ But feedback is also hard to give. Here are a few tips:
 
 The format of the **final presentations on December 11**.
 
-We will do a poster session. 
+We will do a [poster session](https://en.wikipedia.org/wiki/Poster_session). This can take a lot of shapes and it is completely up to you. We will divide the class into two sections (A & B). Group A will present for 50 mins while Group B meanders and vice versa. We will invite people from across the department.
 
+The room will have tall tables in it where you can set up your laptop. Some suggestions:
+* Walk visitors through your project or website
+* [Make a poster](https://guides.nyu.edu/posters) about your paper
+* Make a slideshow that you walk visitors through
+* Record a video of something happening that you talk over for visitors
+* Make [a Figma](https://www.figma.com/) that you navigate visitors through
+
+Please create whatever you will feel most comfortable talking to small groups of 1-4 people about for about 5-10 minutes at a time.
 
 
 #### Technical Projects
@@ -109,3 +119,22 @@ Some examples include:
 * Trace the history of bias in machine learning in a written paper that will either be published to a website or submitted to a conference/journal. Explore various dimensions of bias in one or more base models, or fine tune a model to be more or less biased. 
 * Explore what authorship and/or copyright mean in a world where LLM’s are trained on large swaths of data from the internet. Generate writing in the style of a specific author as an example. 
 * Etc.
+
+#### More inspiration
+
+**Projects**
+* [This is the Stanford NLP Course final projects](https://web.stanford.edu/class/cs224n/project.html). These projects are a full semester long done by a group of students. Use this to find topic ideas - not project ideas - they are all too big for 4 weeks.
+
+**Datasets**
+* [Kaggle NLP Data](https://www.kaggle.com/datasets?tags=13204-NLP)
+* [Fake news challenge](https://github.com/FakeNewsChallenge/fnc-1)
+* [Quora question pairs](https://www.kaggle.com/c/quora-question-pairs)
+* [Yelp](https://www.yelp.com/dataset)
+* [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html)
+* [Cornell Movie Dialogues](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+* [Stanford question answering](https://rajpurkar.github.io/SQuAD-explorer/)
+* [Enron emails](https://aws.amazon.com/de/datasets/enron-email-data/)
+* [Jeopardy](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
+
+* [A very large and comprehensive list](https://github.com/niderhoff/nlp-datasets)
+* [The Huggingface datasets](https://huggingface.co/datasets)
