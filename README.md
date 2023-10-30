@@ -331,7 +331,7 @@ Project Idea due 11/12
    </td>
    <td>Nov 27
    </td>
-   <td>Reinforcement Learning
+   <td>Performance Evaluation
    </td>
    <td>Project
    </td>
@@ -447,8 +447,6 @@ October 10 - No class meeting - only lab
 
 October 16 (S) Privacy, copyright and intellectual property **_Read three_**
 
-
-
 * Rahman & Santacana, 2023. [Beyond Fair Use: Legal Risk Evaluation for Training LLMs on Copyrighted Text](https://genlaw.github.io/CameraReady/57.pdf).
 * Potter, 2023.[ If ChatGPT wrote it, who owns the copyright? It depends on where you live, but in Australia it’s complicated](https://theconversation.com/if-chatgpt-wrote-it-who-owns-the-copyright-it-depends-on-where-you-live-but-in-australia-its-complicated-202516).
 * Kim, et al., 2023. [ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)
@@ -471,8 +469,6 @@ October 23 (T) Transformers and attention
 
 October 30 (S) Labor & Creative production
 
-
-
 * Labor **_Read two_**
     * Eloundou, et al., 2023. OpenAI [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)
     * May 7, 2023, The Economist. [Your job is (probably) safe from artificial intelligence](https://www.economist.com/finance-and-economics/2023/05/07/your-job-is-probably-safe-from-artificial-intelligence) *Note that you don't need a subscription - just an account to read this)*
@@ -480,11 +476,35 @@ October 30 (S) Labor & Creative production
     * Klinova & Korinek, Aug 17, 2023. Brookings. [Unleashing possibilities, ignoring risks: Why we need tools to manage AI’s impact on jobs](https://www.brookings.edu/articles/unleashing-possibilities-ignoring-risks-why-we-need-tools-to-manage-ais-impact-on-jobs/)
     * O'Reilly & Zahidi, Sept 2023. World Economic Forum. [Jobs of Tomorrow: Large Language Models and Jobs](https://www3.weforum.org/docs/WEF_Jobs_of_Tomorrow_Generative_AI_2023.pdf)
 
-November 6  (T) Fine Tuning
+November 6  (T) Fine Tuning (and RAG)
+* Retrieval Augmented Generation (RAG) **Read both**
+   * (All) Martineau, IBM, 2023. [Retrieval Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
+   * (All) Hotz, 2023. [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)
+
+* Fine Tuning **Read one**
+   * (Technical) Jurafsky & Martin, 2023 [Fine Tuning and Masked Language Models](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
+  *  (Mid-level) Hugging Face, 2023. [NLP Course: Fine Tuning a Masked Language Model](https://huggingface.co/learn/nlp-course/chapter7/3?fw=tf)
+   * (Intuitive) Talebi, Sept 2023. [Fine Tuning Large Language Models](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91)
+
+
 
 November 20 (S) Hallucinations and Misinformation
+* Overviews
+   * Tam, 2023. [A Gentle Introduction to Hallucinations in Large Language Models](https://machinelearningmastery.com/a-gentle-introduction-to-hallucinations-in-large-language-models/)
+   * GDELT Project, 2023. [Understanding Hallucination In LLMs: A Brief Introduction](https://blog.gdeltproject.org/understanding-hallucination-in-llms-a-brief-introduction/)
+   * Chen [LLM Misinformation Group](https://llm-misinformation.github.io/)
+   * Goldstein, et al, 2023. [Forecasting potential misuses of language models for disinformation campaigns—and how to reduce risk](https://cyber.fsi.stanford.edu/io/news/forecasting-potential-misuses-language-models-disinformation-campaigns-and-how-reduce-risk)
+* Commentary **Read at least one** 
+   * Hsu, Thompson, Feb 2023, NYTimes. [Disinformation Researchers Raise Alarms About A.I. Chatbots](https://www.nytimes.com/2023/02/08/technology/ai-chatbots-disinformation.html
+   * Metz, Apr 2023, NYTimes [What Makes A.I. Chatbots Go Wrong?](https://nytimes.com/2023/03/29/technology/ai-chatbots-hallucinations.html)
+* Research **Read at least one**
+   * Chen & Shu, 2023. [Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788)
+   * Pan, et al., 2023. [On the Risk of Misinformation Pollution with Large Language Models](https://arxiv.org/abs/2305.13661)
+   * Zhou, et al., 2023. [Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581318)
+   
 
-November 27 (T) Reinforcement learning
+
+November 27 (T) Performance Evaluation
 
 December 4 (S) Emergent behavior and performance
 
