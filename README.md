@@ -485,6 +485,9 @@ November 6  (T) Fine Tuning (and RAG)
    * (Technical) Jurafsky & Martin, 2023 [Fine Tuning and Masked Language Models](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
   *  (Mid-level) Hugging Face, 2023. [NLP Course: Fine Tuning a Masked Language Model](https://huggingface.co/learn/nlp-course/chapter7/3?fw=tf)
    * (Intuitive) Talebi, Sept 2023. [Fine Tuning Large Language Models](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91)
+ 
+* Fine Tuning in research **Further reading**
+   * Gira, et al., 2022. [Debiasing Pre-Trained Language Models via Efficient Fine-Tuning](https://aclanthology.org/2022.ltedi-1.8/)
 
 
 
