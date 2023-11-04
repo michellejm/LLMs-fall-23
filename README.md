@@ -488,6 +488,7 @@ November 6  (T) Fine Tuning (and RAG)
  
 * Fine Tuning in research **Further reading**
    * Gira, et al., 2022. [Debiasing Pre-Trained Language Models via Efficient Fine-Tuning](https://aclanthology.org/2022.ltedi-1.8/)
+   * Merchant et al., 2020. [What Happens to BERT during Fine Tuning](https://arxiv.org/pdf/2004.14448.pdf)
 
 
 
