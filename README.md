@@ -509,6 +509,17 @@ November 20 (S) Hallucinations and Misinformation
 
 
 November 27 (T) Performance Evaluation
+* (Intuitive) [Microsoft's How to Evaluate LLMs: A Complete Metric Framework](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/how-to-evaluate-llms-a-complete-metric-framework/). 2023.
+* (Intuitive) **HELM** Liang, et al., 2023. [Language Models are Changing AI: The Need for Holistic Evaluation](https://crfm.stanford.edu/2022/11/17/helm.html). This is the blog post version. There is a 162 page technical paper [Holistic Evaluation of Language Models](https://arxiv.org/pdf/2211.09110.pdf). _The paper is too much to read this semester. It is listed here so you know it exists._
+* (Technical) **BLEU** Papineni, et al., 2002. [BLEU: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040.pdf). Here is the associated [Hugging Face model card](https://huggingface.co/spaces/evaluate-metric/bleu)
+* Research
+    * Guo, et al., 2023. [Evaluating Large Language Models: A
+Comprehensive Survey](https://arxiv.org/pdf/2310.19736.pdf) _This is a 111 page doc, do not try to read the whole thing this semester. It is listed here so you know it exists._
+    * Luccioni, et al., 2022. [Estimating the Carbon Footprint of BLOOM, a ESTIMATING THE CARBON FOOTPRINT OF BLOOM,
+A 176B PARAMETER LANGUAGE MODEL](https://arxiv.org/pdf/2211.02001.pdf)
+
+* Research
+    * Chang, et al., 2023. [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
 
 December 4 (S) Emergent behavior and performance
 
