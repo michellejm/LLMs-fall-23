@@ -530,7 +530,7 @@ December 4 (S) Emergent behavior and performance
 * Roose, 2023. [Bing’s A.I. Chat: ‘I Want to Be Alive. 😈’](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)
     * [The Hard Fork podcast version of the same story](https://www.nytimes.com/2023/02/24/podcasts/hard-fork-bing-reddit-meta.html) 
 * Raieli, 2023. [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9), Medium. _This is an opinion piece, but also a very sober introduction to what "emergent abilities" implies_
-    * (Intuitive) Bashir, 2023. [In-Context Learning, In Context](https://thegradient.pub/in-context-learning-in-context/). The Gradient.
+* (Intuitive) Bashir, 2023. [In-Context Learning, In Context](https://thegradient.pub/in-context-learning-in-context/). The Gradient.
 * (Technical) Xie and Min, 2022. [How does in-context learning work? A framework for understanding the differences from traditional supervised learning](http://ai.stanford.edu/blog/understanding-incontext/). Stanford AI Lab blog.
 * Research
     * Hahn and Goyle, 2023. [A Theory of Emergent In-Context Learning as Implicit Structure Induction](https://arxiv.org/abs/2303.07971)
