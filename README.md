@@ -521,6 +521,7 @@ November 27 (T) Performance Evaluation
     * Guo, et al., 2023. [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2310.19736.pdf) _This is a 111 page doc, do not try to read the whole thing this semester. It is listed here so you know it exists._
     * Luccioni, et al., 2022. [Estimating the Carbon Footprint of BLOOM, a 1768 parameter language model](https://arxiv.org/pdf/2211.02001.pdf)
     * Chang, et al., 2023. [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
+        * Google, 2020. [The Beyond the Imitation Game Benchmark (BIG-bench)](https://github.com/google/BIG-bench)
 
 
 
@@ -528,4 +529,8 @@ December 4 (S) Emergent behavior and performance
 
 * Roose, 2023. [Bing’s A.I. Chat: ‘I Want to Be Alive. 😈’](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)
     * [The Hard Fork podcast version of the same story](https://www.nytimes.com/2023/02/24/podcasts/hard-fork-bing-reddit-meta.html) 
-* 
+* Raieli, 2023. [Emergent Abilities in AI: Are We Chasing a Myth?](https://towardsdatascience.com/emergent-abilities-in-ai-are-we-chasing-a-myth-fead754a1bf9), Medium. _This is an opinion piece, but also a very sober introduction to what "emergent abilities" implies_
+* Research
+    * Hahn and Goyle, 2023. [A Theory of Emergent In-Context Learning as Implicit Structure Induction](https://arxiv.org/abs/2303.07971)
+    * Schaeffer, et al., 2023. [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
+    * Ganguli, et al., 2022. [Predictability and Surprise in Large Generative Models](https://arxiv.org/abs/2202.07785)
