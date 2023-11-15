@@ -522,9 +522,10 @@ November 27 (T) Performance Evaluation
     * Luccioni, et al., 2022. [Estimating the Carbon Footprint of BLOOM, a 1768 parameter language model](https://arxiv.org/pdf/2211.02001.pdf)
     * Chang, et al., 2023. [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
 
+
+
 December 4 (S) Emergent behavior and performance
 
-
-
-* [https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)
-    * The podcast version hard fork [https://www.nytimes.com/2023/02/24/podcasts/hard-fork-bing-reddit-meta.html](https://www.nytimes.com/2023/02/24/podcasts/hard-fork-bing-reddit-meta.html) 
+* Roose, 2023. [Bing’s A.I. Chat: ‘I Want to Be Alive. 😈’](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)
+    * [The Hard Fork podcast version of the same story](https://www.nytimes.com/2023/02/24/podcasts/hard-fork-bing-reddit-meta.html) 
+* 
